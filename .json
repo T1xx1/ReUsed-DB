@@ -6,5 +6,37 @@
       "imgs": [
          "94b32383-07f4-4ce8-b9cb-e8878c99cfe2.png"
       ]
+   },
+   {
+      "id": "7f5e491a-0145-4b47-bf6b-725094cb03b0",
+      "title": "Guida d'Italia",
+      "price": 7,
+      "imgs": [
+         "a8e338ec-cdc2-4677-ad0f-c452c848afce"
+      ]
+   },
+   {
+      "id": "b741e698-f839-42b7-ac47-00f36f4e5570",
+      "title": "La grande storia delle crociate",
+      "price": 10,
+      "imgs": [
+         "984ab88b-c104-4407-a601-562002e1b059.png"
+      ]
+   },
+   {
+      "id": "3f8cf192-4754-45cd-af4d-f4bc9b750c7d",
+      "title": "Il libro degli antichi misteri",
+      "price": 15,
+      "imgs": [
+         "14439ee6-7580-46e3-942e-c7a93055b61c.png"
+      ]
+   },
+   {
+      "id": "bc859ff3-0fe3-4b2d-822f-afa4dad9d376",
+      "title": "Lo specchio del cielo",
+      "price": 10,
+      "imgs": [
+         "c32c257d-b4eb-4245-b058-27a5388c2661"
+      ]
    }
 ]
