@@ -12,7 +12,7 @@
       "title": "Guida d'Italia",
       "price": 7,
       "imgs": [
-         "a8e338ec-cdc2-4677-ad0f-c452c848afce"
+         "a8e338ec-cdc2-4677-ad0f-c452c848afce.png"
       ]
    },
    {
@@ -36,7 +36,7 @@
       "title": "Lo specchio del cielo",
       "price": 10,
       "imgs": [
-         "c32c257d-b4eb-4245-b058-27a5388c2661"
+         "c32c257d-b4eb-4245-b058-27a5388c2661.png"
       ]
    },
    {
@@ -44,7 +44,117 @@
       "title": "I Promessi Paperi",
       "price": 10,
       "imgs": [
-         "88033672-84e7-49d8-a1ca-03a5e806815b"
+         "88033672-84e7-49d8-a1ca-03a5e806815b.png"
+      ]
+   },
+   {
+      "id": "8d976f40-b557-4cf5-a453-82cc57c90ad2",
+      "title": "Atlante per viaggiare in Europa",
+      "price": 7,
+      "imgs": [
+         "2dd76307-432c-4b65-a069-fd11fd1f8938.png"
+      ]
+   },
+   {
+      "id": "b3f49375-7678-4dd6-a93a-f472b3b5d25a",
+      "title": "Piccole città, borghi e villaggi",
+      "price": 7,
+      "imgs": [
+         "38f934cc-8df6-4256-b1f5-97edd38fcf27.png"
+      ]
+   },
+   {
+      "id": "105bf06e-fc87-4818-9572-4bb14f31239f",
+      "title": "Cucchiaio russo",
+      "price": 5,
+      "imgs": [
+         "41571c6b-363f-4587-82e0-a431433d6423.webp"
+      ]
+   },
+   {
+      "id": "ff3d5580-2a59-4b50-8f31-cbb8456b10cd",
+      "title": "Scatoletta in legno",
+      "price": 3,
+      "imgs": [
+         "02edda1d-d75b-458a-b07f-408e8e305205.webp",
+         "d776b4ab-1c24-4a80-89a0-4543ff8fcf12.webp"
+      ]
+   },
+   {
+      "id": "4c86c8c2-54f1-40f1-a511-ef3d42445791",
+      "title": "Matrioska",
+      "price": 5,
+      "imgs": [
+         "2060319c-10d1-4add-9090-72d6b73ef347.webp"
+      ]
+   },
+   {
+      "id": "aee3c473-6645-4b9e-9fab-061197b2f64e",
+      "title": "Scatoletta in legno",
+      "price": 3,
+      "imgs": [
+         "1695dddb-a1d5-4329-a268-cc7022bb4169.webp",
+         "9c7e5faa-6876-4944-9b0a-6a2d42f548bb.webp"
+      ]
+   },
+   {
+      "id": "7d04be5f-c258-416e-8615-ddd4c2ef88fb",
+      "title": "Wizzies Esselunga",
+      "price": 10,
+      "imgs": [
+         "6dd37cc4-68e4-4654-b3da-8d14ef394818.webp",
+         "b1b7a91a-2bbf-4f5a-b13a-6a72386d26c5.webp"
+      ]
+   },
+   {
+      "id": "98420041-0d81-4e53-a368-3f9771a89b59",
+      "title": "Rollinz Star Wars",
+      "price": 1,
+      "imgs": [
+         "f2deea1c-858d-4220-abe5-38647610a3c6.webp"
+      ]
+   },
+   {
+      "id": "52ef0205-9d6b-4a2e-8105-21f75ee6d9a9",
+      "title": "Album Starzone",
+      "price": 15,
+      "imgs": [
+         "361cc5b2-81aa-4f6b-8245-ebfe0bb3784c.webp",
+         "ee3f0ac2-e6c8-491e-8ecc-d3bc20815811.webp"
+      ]
+   },
+   {
+      "id": "59641949-a6a7-417d-a871-0e46338995e9",
+      "title": "Quattro ruote",
+      "price": 5,
+      "imgs": [
+         "47e50b30-53a8-4abc-84c2-79714e5d6ddb.webp"
+      ]
+   },
+   {
+      "id": "c294cbb5-afb3-4ce9-9c2b-148b9b8ac13e",
+      "title": "Scarponi",
+      "price": 30,
+      "imgs": [
+         "cb76a4c5-ae68-487c-95b0-2ff82fd6dc65.webp",
+         "2d70e692-80ad-488b-8fce-68f5c65a2691.webp"
+      ]
+   },
+   {
+      "id": "14594e11-260c-4bc8-bc29-9e9cf627ce7d",
+      "title": "Album eroi DreamWorks",
+      "price": 10,
+      "imgs": [
+         "c13e170b-85d3-4733-9aa7-d2a98261569e.webp",
+         "8682b5ff-0d1a-45a4-8e22-9acfaa11063a.webp"
+      ]
+   },
+   {
+      "id": "e4690284-4f36-4ef4-9cf6-1fe2012946ab",
+      "title": "Borsa",
+      "price": 100,
+      "imgs": [
+         "4922bc51-1161-41fc-a213-ac1af356c237.webp"
       ]
    }
 ]
